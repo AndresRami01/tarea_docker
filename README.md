@@ -1,4 +1,8 @@
 # tarea_docker
+# Andres Mauricio Ramirez Rengifo 192987-3743
+# andres.ramirez.rengifo@correounivalle.edu.co
+# Enlace del video : https://youtu.be/NpYCGPYkvH4
+
 docker volume create pg_db : volumen donde se va guardar los datos
 
 docker network create pg_network : donde se va conectar el servidor y el cliente
